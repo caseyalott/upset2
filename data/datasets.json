@@ -6,6 +6,7 @@
 
   "data/compounds/comp-protein.json",
   "data/compounds/comp-family.json",
+  "data/literature/biblio.json",
 
   "data/countries/countries.json",
 
